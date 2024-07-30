@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben @sekerlipencere!
 
 <div align="center">
-  <img src="https://giphy.com/embed/ZiGNTTqkEQvYIFwprY" width="600" height="300"/>
+  <img src="https://i.ibb.co/LP8N74y/giphy.webp"
 </div>
 
 ## 🧠 İlgi Alanlarım
